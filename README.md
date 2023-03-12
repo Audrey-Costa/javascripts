@@ -2,14 +2,19 @@
 
 Alguns scripts simples feitos para testes técnicos ou prática de novos conceitos em javascript.
 
-- [Javascripts](#javascripts)
+    - [Buscador de Números Primos](#buscador-de-números-primos)
     - [Buscador de Números Primos](#buscador-de-números-primos)
 - [](#)
-    - [Conversor de Bytes](#conversor-de-bytes)
+- [Buscador de Números Primos](#buscador-de-números-primos)
+- [](#)
+- [Conversor de Bytes](#conversor-de-bytes)
 - [](#-1)
     - [Verificador de Palindromos](#verificador-de-palindromos)
+    - [Verificador de Palindromos](#verificador-de-palindromos)
 - [](#-2)
-    - [Yield](#yield)
+- [Verificador de Palindromos](#verificador-de-palindromos)
+- [](#-2)
+- [Yield](#yield)
 ### Buscador de Números Primos
 
 > ***Script para encontrar e operar números primos.***<br>
