@@ -2,19 +2,11 @@
 
 Alguns scripts simples feitos para testes técnicos ou prática de novos conceitos em javascript.
 
+- [Javascripts](#javascripts)
     - [Buscador de Números Primos](#buscador-de-números-primos)
-    - [Buscador de Números Primos](#buscador-de-números-primos)
-- [](#)
-- [Buscador de Números Primos](#buscador-de-números-primos)
-- [](#)
-- [Conversor de Bytes](#conversor-de-bytes)
-- [](#-1)
+    - [Conversor de Bytes](#conversor-de-bytes)
     - [Verificador de Palindromos](#verificador-de-palindromos)
-    - [Verificador de Palindromos](#verificador-de-palindromos)
-- [](#-2)
-- [Verificador de Palindromos](#verificador-de-palindromos)
-- [](#-2)
-- [Yield](#yield)
+    - [Yield](#yield)
 ### Buscador de Números Primos
 
 > ***Script para encontrar e operar números primos.***<br>
@@ -79,7 +71,6 @@ Alguns scripts simples feitos para testes técnicos ou prática de novos conceit
     }
     ```
 
-#
 
 ### Conversor de Bytes
 
@@ -103,10 +94,9 @@ function conversor(Bytes){
   console.log(size + " " + unit);
 }
 ```
-#
+
 
 ### Verificador de Palindromos
-#
 ### Yield
 
 > ***Script de teste de funções geradoras.***<br>
