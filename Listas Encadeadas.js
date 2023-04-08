@@ -86,8 +86,7 @@ function listaEncadeadaParaArray(lista){
   return array;
 }
 
-
-console.log(JSON.stringify(geradorDeListaEncadeada([1,2,3])));
+//console.log(JSON.stringify(geradorDeListaEncadeada([1,2,3])));
 //console.log(JSON.stringify(inserirNo([1,2,3,4,5], "a", 9)));
 //console.log(JSON.stringify(obterValorDaLista([1,2,3,4,5], 4)));
 //console.log(JSON.stringify(atualizarNo([1,2,3,4,5], 6, 10)));
